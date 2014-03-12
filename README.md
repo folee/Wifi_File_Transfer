@@ -13,9 +13,9 @@
 
 ![alt text](http://img0.ph.126.net/GSNIwWnUJ97ARGhuDqZpBg==/1409345208490597254.png "图1")
 
-
  
 对于发方，首先点击“连接wifi热点”按钮，连接收方的wifi热点，然后点击“开启发送”按钮，开始发送数据。
 图2为发方。
+
 ![alt text](http://img1.ph.126.net/uWZa6gz4nQ1LrbsEs4xC-w==/4843902874313781565.png "图2")
  

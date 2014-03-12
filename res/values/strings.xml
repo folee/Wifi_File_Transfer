@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi_File_Transfer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="turn_on_send">开启发送</string>
+    <string name="turn_off_send">关闭发送</string>
+    <string name="turn_on_receiver">开启接受</string>
+    <string name="turn_off_receiver">关闭接受</string>
+
+</resources>
